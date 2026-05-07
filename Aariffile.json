@@ -7,3 +7,13 @@
     "allowOffline": true
   }
 ]
+
+[
+  {
+    "id": "A04248c00c1303f4",
+    "username": "Andres2",
+    "password": "123",
+    "expiresAt": "2030-12-31",
+    "allowOffline": true
+  }
+]
